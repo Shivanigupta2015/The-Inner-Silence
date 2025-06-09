@@ -11,8 +11,8 @@ function HeroSection() {
           <p>
             Inner silence refers to a state of deep mental stillness where the
             usual stream of thoughts, worries, judgments, and mental chatter is
-            quieted or completely absent. It's a form of mental peace where
-            you're fully present, aware, and not being pulled by past regrets or
+            quieted or completely absent. It is a form of mental peace where
+            you&apos;re fully present, aware, and not being pulled by past regrets or
             future anxieties
           </p>
           <div className="m-4">
